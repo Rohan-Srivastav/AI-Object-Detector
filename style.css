@@ -1,0 +1,32 @@
+#object_name{
+    width: 35%;
+    height: 6%;
+    font-family: cursive;
+	font-size: 15px;
+	line-height: 20px;
+	width: 40%;
+	height: 40px;  
+ }
+
+ .heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 120px;
+    margin-bottom: 60px;
+}
+body{
+    background: linear-gradient(to bottom right, #c471ed, #c6ffdd, #fbd786, #f7797d, #12c2e9,  #f64f59);
+}
+
